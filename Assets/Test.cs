@@ -47,6 +47,7 @@ public class Test : MonoBehaviour
         for(int i = 0; i < 10; i++) {
             lastboss.Magic();
         }
+        lastboss.Magic();
     }
 
     // Update is called once per frame
